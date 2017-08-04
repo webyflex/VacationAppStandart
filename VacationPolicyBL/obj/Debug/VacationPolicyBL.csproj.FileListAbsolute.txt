@@ -1,0 +1,4 @@
+c:\users\ykoshm\documents\visual studio 2015\Projects\VacationPolicyApp\VacationPolicyBL\bin\Debug\VacationPolicyBL.dll
+c:\users\ykoshm\documents\visual studio 2015\Projects\VacationPolicyApp\VacationPolicyBL\bin\Debug\VacationPolicyBL.pdb
+c:\users\ykoshm\documents\visual studio 2015\Projects\VacationPolicyApp\VacationPolicyBL\obj\Debug\VacationPolicyBL.dll
+c:\users\ykoshm\documents\visual studio 2015\Projects\VacationPolicyApp\VacationPolicyBL\obj\Debug\VacationPolicyBL.pdb
